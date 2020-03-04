@@ -1,2 +1,2 @@
-# Enterprise-network-Enginnering (CTIS 6TH SEMESTER)
+# Enterprise-network-Enginnering
 Practice Assignments and Lab Tasks 
