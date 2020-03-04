@@ -12,7 +12,7 @@ b. Restrict
 c. Shutdown
 ```
 
-### 4. Write the steps(Commands) to configure the password on the Switch.(With Encrytion and Without Encryption).
+#### 4. Write the steps(Commands) to configure the password on the Switch.(With Encrytion and Without Encryption).
 
-### 5. List all the Advantages of the port security on the interface.
+#### 5. List all the Advantages of the port security on the interface.
 
