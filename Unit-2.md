@@ -1,6 +1,6 @@
 ## Ethernet LAN Standards and Switches (Questions)
 
-#### 1. Illustrate the term broadcast Domain and Collision with the help of Switch and Hub Example.
+#### 1. Illustrate the term broadcast Domain and Collision with the help of Switch, Router and Hub Example.
 
 #### 2. With the help of Diagram, Explain the working of the switch and Discuss the switch forwarding and Filtering Decision.
 
