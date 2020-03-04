@@ -6,10 +6,10 @@ Read all the Questions carefully
 ```
 #### 1. Disccus features and characterstics of various network devices :
 ```
-1. Routers, 
-2. Switches,
-3. Bridges 
-4. Hubs.
+1. Router 
+2. Switch
+3. Bridge 
+4. Hub
 ```
 
 #### 2. Describe the purpose and basic operation of the protocols in the OSI and TCP/IP models.
@@ -24,7 +24,7 @@ Read all the Questions carefully
 
 #### 7. Explain the various types of Ethernet LAN standards in brief.
 
-#### 8. Explain the UTP cabling Pinouts for 10BASET and 100BASET for Transmitting Data. 
+#### 8. Explain the UTP cabling Pinouts for 10BASE-T, 1000BASE-T and 100BASE-T for Transmitting Data in Physical Medium. 
 
 #### 9. Illustrate the Crossover cable pinout with the hep of diagram.
 
@@ -34,7 +34,8 @@ Read all the Questions carefully
 
 #### 12. Write a short Notes on :
 ```
-in an Ethernet Lan Enviroment
+In an Ethernet Lan Enviroment:
+
 a. Half Duplex
 b. Full Duplex 
 
@@ -44,3 +45,10 @@ b. Full Duplex
 #### 14. Design the Basic LAN Scenario with the help of Topology Diagram. 
 
 #### 15. Create a Basic WAN Architechture with the help of Example.
+
+#### 16. Explain the following Terminology with the help of Example.
+```
+a. Classfull Addressing Scheme
+b. Differentiate methods of routing and routing protocols
+Static vs. Dynamic
+```
