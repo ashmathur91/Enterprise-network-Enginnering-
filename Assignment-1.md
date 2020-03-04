@@ -34,8 +34,10 @@ Read all the Questions carefully
 
 #### 12. Write a short Notes on :
 ```
+in an Ethernet Lan Enviroment
 a. Half Duplex
-b. Full Duplex in an Ethernet Lan 
+b. Full Duplex 
+
 ```
 #### 13. With the help of Diagram, Discuss DSL (Digital Subscriber Line).
 
