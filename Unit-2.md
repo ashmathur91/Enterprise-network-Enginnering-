@@ -1,6 +1,4 @@
-## Ethernet LAN Standards and Switches
-
-### Questions 
+## Ethernet LAN Standards and Switches (Questions)
 
 #### 1. Illustrate the term broadcast Domain and Collision with the help of Switch and Hub Example.
 
@@ -35,3 +33,7 @@
 #### 12. Demonstrate the Port Security in Switch along with that, Explain the configuration of port security in switch.
 
 #### 13. List out Major Five difference between Switch and Router.
+
+#### 14. Explain the classful and Classless Addressing Scheme with the help of Example.
+
+#### 15. With the help of Router and Switches,Illustrate the basic Routing Scenario between Networking Devices.
