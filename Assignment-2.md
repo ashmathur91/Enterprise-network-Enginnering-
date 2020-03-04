@@ -17,12 +17,21 @@
 #### 7. With the help of scenario of College Campus Network, Illustrate the concept of VLAN. 
 
 #### 8. Describe the Given below CLI access modes of Switch along with the commands:
-
+```
 ##### a. User mode
 ##### b. Previliged Mode
-
+````
 #### 9. Explain the four main types of Memory Found in cisco Switches.
 
 #### 10. Explain the WAN technology with examples.
 
+#### 11. Write the Command for following configuration in switches.
+```
+#### a. Password setting for Switch 
+###  b. Configure VLAN interface with 3 port access to that respective VLAN in Switch 
 
+```
+
+#### 12. Demonstrate the Port Security in Switch along with that, Explain the configuration of port security in switch.
+
+#### 13. List out Major Five difference between Switch and Router.
