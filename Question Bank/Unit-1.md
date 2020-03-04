@@ -32,7 +32,9 @@ Read all the Questions carefully
 
 #### 11. Illustrate the (LAN) MAC Addressing Terms Along with the functional Descriptions.
 
-#### 12. Write a short Notes on :
+#### 12. With the help of neat sketch, Explain three-way handshake is a method used in a TCP/IP network to create a connection.
+
+#### 13. Write a short Notes on :
 ```
 In an Ethernet Lan Enviroment:
 
@@ -40,13 +42,13 @@ a. Half Duplex
 b. Full Duplex 
 
 ```
-#### 13. With the help of Diagram, Discuss DSL (Digital Subscriber Line).
+#### 14. With the help of Diagram, Discuss DSL (Digital Subscriber Line).
 
-#### 14. Design the Basic LAN Scenario with the help of Topology Diagram. 
+#### 15. Design the Basic LAN Scenario with the help of Topology Diagram. 
 
-#### 15. Create a Basic WAN Architechture with the help of Example.
+#### 16. Create a Basic WAN Architechture with the help of Example.
 
-#### 16. Explain the following Terminology with the help of Example.
+#### 17. Explain the following Terminology with the help of Example.
 ```
 a. Classfull Addressing Scheme
 b. Differentiate methods of routing and routing protocols
