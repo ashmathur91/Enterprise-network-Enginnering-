@@ -37,3 +37,29 @@
 #### 14. Explain the classful and Classless Addressing Scheme with the help of Example.
 
 #### 15. With the help of Router and Switches,Illustrate the basic Routing Scenario between Networking Devices.
+
+## Short Answer Questions: 
+
+#### 16. You need to troubleshoot your network IP connectivity. What commands would you use to find the IP address on your Ethernet 0 interface?  
+
+#### 17. What command would you use in the CLI at User mode to enter Privileged EXEC mode?
+
+#### 18. Your boss is concerned about security on your network. She wants to make sure that no one can identify passwords if they happen to view a configuration on your router. What command will encrypt all passwords on your router?
+```
+a. Router1#service password-encryption
+
+b. Router1(config)#service password-encryption
+
+c. Router1#enable secret password
+
+d. Router1(config)#enable secret password
+```
+#### 19. Write a short Answer on 
+
+```
+a. Write a Command to change the hostname of the switch 
+b. Write the steps to configure to allocate the access ports in interfaces of the switch.
+c. What is command to get the summary of the interfaces of the switch.
+```
+#### 20. Illustrate How Does Switch Performs Forwarding Function with help of Diagram?
+
