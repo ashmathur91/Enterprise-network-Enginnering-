@@ -1,4 +1,4 @@
-### Fundamentals of Networking 
+### Fundamentals of Networking (Reference: Class Lecture and Chapter 1-5)
 
 
 ```
