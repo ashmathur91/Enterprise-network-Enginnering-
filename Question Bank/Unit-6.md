@@ -27,10 +27,13 @@ c. Shutdown
 #### 10. Discuss the following terms:
   ```
   a. logging synchronous
-	b. exec-timeout
+  b. exec-timeout
 ```
 #### 11. Illustrate the procedure to enable the IP address for a switch through commands.
 
-#### 12. How to configure the individual interfaces? Discuss in detail.
+#### 12. How to configure the individual interfaces on switch ? Discuss in detail.
 
-#### 13. 
+#### 13. Demonstrate the scenario of port security with the help of example. 
+
+
+
