@@ -24,4 +24,13 @@ c. Shutdown
 
 #### 9. Demostrate banner configuration on Switch CLI with the help of command and List the benifits of All the mode of Banner for Switch or Router.
 
+#### 10. Discuss the following terms:
+  ```
+  a. logging synchronous
+	b. exec-timeout
+```
+#### 11. Illustrate the procedure to enable the IP address for a switch through commands.
 
+#### 12. How to configure the individual interfaces? Discuss in detail.
+
+#### 13. 
