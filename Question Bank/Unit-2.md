@@ -1,4 +1,4 @@
-## Ethernet LAN Standards and Switches (Questions)
+## Ethernet LAN Standards and Switches (Questions) [Reference : Chapter 6 and 7 / Class Lectures]
 
 #### 1. Illustrate the term broadcast Domain and Collision with the help of Switch, Router and Hub Example.
 
