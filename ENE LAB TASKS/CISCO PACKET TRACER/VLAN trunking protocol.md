@@ -1,22 +1,27 @@
-# Switching VLAN
+# Switching-Virtual Trunking Protocol(VTP)
+
 
 To practice this example:
 - use PacketTracer
-- add 3 Cisco 2960 switch
+- add 3 Cisco 2960 switches
 - connect them with crossover cables
+- execute the text file
 
-![switchingvlan](https://user-images.githubusercontent.com/39448332/40281195-cad00822-5c7b-11e8-9be8-ab543ad24242.png)
+![switchingvtp](https://user-images.githubusercontent.com/39448332/40281202-ec4a3cc0-5c7b-11e8-873e-eda7a6952b06.png)
 
+# Objective
 
-## Objective
-Connect 2 VLANs
+Connect 2 VLANs via a router
+Commonly called "Router on a Stick"
 
 ## Commands
-`show vlan`
+` show vlan `
 
-`show int trunk`
+` show int trunk `
 
-`show int <Interface> switchport` (i.e. shot int f0 / 21 switchport)
+` show int <Interface> switchport ` (i.e. shot int f0/21 switchport)
+
+` show vtp status `
 
 
-Using Utiliser Cisco Packet Tracer 6.2.0
+Using Cisco Packet Tracer 6.2.0
